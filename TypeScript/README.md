@@ -43,3 +43,9 @@ npm run test:jest:watch
 ```sh
 npm run test:mocha
 ```
+
+### Visually compare and merge files
+```
+brew install --cask diffmerge
+```
+
